@@ -1,0 +1,21 @@
+{
+    "Hummus": [
+        "Pois chiches",
+        "Tahini",
+        "Ail",
+        "Sel"
+    ],
+    "water": [
+        "hydrogen",
+        "hydrogen",
+        "oxygen"
+    ],
+    "rice": [
+        "water",
+        "rice",
+        "heat",
+        "salt",
+        "paper",
+        "love"
+    ]
+}
